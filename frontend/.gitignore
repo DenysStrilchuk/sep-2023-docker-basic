@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.idea
+.mongo-db
+.mysql
+
+../sep-2023-docker-basic.iml
